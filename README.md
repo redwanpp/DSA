@@ -1,2 +1,2 @@
-# DSA
+# DSAlgo
 Data Structure and Algrithm
